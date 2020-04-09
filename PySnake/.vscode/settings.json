@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\gksxo\\.virtualenvs\\PySnake-8pl6LbQR\\Scripts\\python.exe",
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}
